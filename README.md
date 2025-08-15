@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Pranit-kumar-hazarika/Pranit-kumar-hazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Pranit**, a CS student passionate about building creative and efficient software solutions.  
+I love turning ideas into real projects using web technologies and always strive to learn something new every day.
 
-Here are some ideas to get you started:
+Outside of coding, you'll find me exploring tech news, watching anime, and occasionally gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranitKumarHazarika&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranitKumarHazarika&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/pranit-kumar-hazarika-64302937a/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pranitkumarhazarika09@gmail.com)
