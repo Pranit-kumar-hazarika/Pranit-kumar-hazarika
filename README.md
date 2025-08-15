@@ -16,13 +16,6 @@ Outside of coding, you'll find me exploring tech news, watching anime, and occas
 
 ---
 
-### 📊 GitHub Stats
-![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranitKumarHazarika&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranitKumarHazarika&theme=tokyonight&hide_border=true)
-
----
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/pranit-kumar-hazarika-64302937a/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pranitkumarhazarika09@gmail.com)
