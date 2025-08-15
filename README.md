@@ -17,5 +17,5 @@ Outside of coding, you'll find me exploring tech news, watching anime, and occas
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/pranit-kumar-hazarika-64302937a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/pranit-kumar-hazarika))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pranitkumarhazarika09@gmail.com)
