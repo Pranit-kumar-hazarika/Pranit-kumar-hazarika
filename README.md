@@ -1,6 +1,7 @@
-# Hi there! 👋
+# Hi, I'm Pranit Kumar Hazarika 👋
 
-I'm **Pranit**, a CS student passionate about building creative and efficient software solutions.  
+
+A CS student passionate about building creative and efficient software solutions.  
 I love turning ideas into real projects using web technologies and always strive to learn something new every day.
 
 Outside of coding, you'll find me exploring tech news, watching anime, Drawing and gaming.
