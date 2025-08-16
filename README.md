@@ -19,7 +19,10 @@ Outside of coding, you'll find me exploring tech news, watching anime, Drawing a
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
 </p>
+
 
 ---
 
